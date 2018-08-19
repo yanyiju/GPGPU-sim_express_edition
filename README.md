@@ -1,8 +1,8 @@
 # GPGPU-sim_express_edition
-Download into virtual machine &amp; just run with it. Skip the steps of installing SDK and CUDA tookits.
+Download into virtual machine &amp; just run with it. Skip the steps of installing SDK, ispass2009-benchmarks and gpu driver.
 
 ## Step1: 
-Install those necessary packages like gcc/g++. No need to install SDK or cuda. See other details on gpgpusim github.
+Install those necessary packages like gcc/g++ and CUDA4.2. No need to install SDK or gpu driver. See other details on gpgpusim [github](https://github.com/gpgpu-sim/gpgpu-sim_distribution).
 
 ## Step2: 
 Download this repository and run "source setvar.sh" in terminal.
@@ -11,4 +11,4 @@ Download this repository and run "source setvar.sh" in terminal.
 Download the gpgpusim repository and copy out config folder into your working path.
 
 ## Step4: 
-Copy your executable file into the config folder (eg. GTX480) and run "./<your ex file name>".
+Copy your executable file (compiled by nvcc) into the config folder (eg. GTX480) and run "./\<your ex file name\>".
