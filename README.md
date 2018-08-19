@@ -1,5 +1,5 @@
 # GPGPU-sim_express_edition
-Download into virtual machine &amp; just run with it. Skip the steps of installing SDK, ispass2009-benchmarks and gpu driver.
+Download into virtual machine (ubuntu 14.04 on my desktop) &amp; just run with it. Skip the steps of installing SDK, ispass2009-benchmarks and gpu driver.
 
 ## Step1: 
 Install those necessary packages like gcc/g++ and CUDA4.2. No need to install SDK or gpu driver. See other details on gpgpusim [github](https://github.com/gpgpu-sim/gpgpu-sim_distribution).
