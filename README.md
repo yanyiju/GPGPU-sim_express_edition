@@ -5,7 +5,8 @@ Download into virtual machine (ubuntu 14.04 on my desktop) &amp; just run with i
 Install those necessary packages like gcc/g++ and CUDA4.2. No need to install SDK or gpu driver. See other details on gpgpusim [github](https://github.com/gpgpu-sim/gpgpu-sim_distribution).
 
 ## Step2: 
-Download this repository and run "source setvar.sh" in terminal.
+Download this repository on your desktop; rename the folder into 'SIM' and run "source setvar.sh" in terminal.
+You can change your path and folder name as you like, but the pathes inside \<setvar.sh\> should be changed at the same time.
 
 ## Step3: 
 Download the gpgpusim repository and copy out config folder into your working path.
