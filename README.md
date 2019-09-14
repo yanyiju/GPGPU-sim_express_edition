@@ -13,4 +13,4 @@ Download this repository on your desktop(or any other path); rename the folder i
 Download the gpgpusim repository and copy out config folder into your working path.
 
 ## Step4: 
-Copy your executable file (compiled by nvcc) into the config folder (eg. GTX480) and run `./\<your ex file name\>`.
+Copy your executable file (compiled by nvcc) into the config folder (eg. GTX480) and run `./<your ex file name>`.
